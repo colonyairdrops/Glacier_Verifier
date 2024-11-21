@@ -8,7 +8,7 @@ Follow Video:
 ![image](https://github.com/user-attachments/assets/527a56a4-99a7-48c0-8007-c336e3456db0)
 
 1. Create New Wallet or use the same wallet used to submit form
-2. Visit [Faucet](https://www.bnbchain.org/en/testnet-faucet) and get some tBNB in new wallet
+2. Visit [Faucet](https://docs.bnbchain.org/bnb-smart-chain/developers/faucet/#claim-tbnb-from-online-faucet) and get some tBNB in new wallet
 3. Visit [Bridge](https://opbnb-testnet-bridge.bnbchain.org/deposit) and bridge tBNB from BNB testnet to opBNB testnet
 4. Copy private_key of node wallet (without 0x)
 
