@@ -1,6 +1,7 @@
 # Glacier_Verifier Node by @ColonyAirdrops
 
-Follow Video: 
+- Follow Video: [Youtube](https://youtu.be/xda46PXs82g)
+- Official Docs: [Here](https://docs.glacier.io/getting-started/glacier-nodes/run-testnet-nodes)
 
 # Step-by-Step Guide to Run Fizz Node
 
@@ -17,6 +18,11 @@ Follow Video:
 docker run -d -e PRIVATE_KEY=$YOUR_PRIVATE_KEY --name glacier-verifier docker.io/glaciernetwork/glacier-verifier:v0.0.1
 ```
 Make sure to take faucet before running
+
+## Check Logs
+```console
+docker logs -f glacier-verifier
+```
 
 ## Check Status
 The online status of the verifier nodes on the testnet can be checked here: https://testnet.nodes.glacier.io/status
