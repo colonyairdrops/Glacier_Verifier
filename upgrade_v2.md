@@ -18,7 +18,6 @@ docker rm glacier-verifier
 docker run -d -e PRIVATE_KEY=YOUR_PRIVATE_KEY --name glacier-verifier docker.io/glaciernetwork/glacier-verifier:v0.0.2
 ```
 - Enter your node wallet private key
-- Make sure to take faucet before running
 
 3. Check Logs
 ```console
