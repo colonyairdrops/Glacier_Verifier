@@ -1,4 +1,4 @@
-# Glacier Verifier Node v2
+# Glacier Verifier Node v3
 - Follow Video: [Youtube](https://youtu.be/xda46PXs82g)
 - Official Docs: [Here](https://docs.glacier.io/getting-started/glacier-nodes/run-testnet-nodes)
 
